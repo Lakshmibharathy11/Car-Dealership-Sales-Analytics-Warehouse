@@ -155,8 +155,8 @@ The SQL files use `{{OLTP_DB}}` and `{{WAREHOUSE_DB}}` placeholders, which are f
 
 ### Setup
 ```bash
-git clone <your-repo-url>
-cd getacar-data-pipeline
+git clone https://github.com/Lakshmibharathy11/Car-Dealership-Sales-Analytics-Warehouse.git
+cd Car-Dealership-Sales-Analytics-Warehouse
 
 python -m venv .venv
 # Windows: .venv\Scripts\activate    macOS/Linux: source .venv/bin/activate
