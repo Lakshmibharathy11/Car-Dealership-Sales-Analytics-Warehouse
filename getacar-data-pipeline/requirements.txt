@@ -1,0 +1,6 @@
+pandas>=2.0
+Faker>=20.0
+mysql-connector-python>=8.0
+python-dotenv>=1.0
+PyQt5>=5.15
+matplotlib>=3.7

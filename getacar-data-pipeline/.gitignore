@@ -1,0 +1,23 @@
+# Secrets
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Generated data
+data/generated/*
+!data/generated/.gitkeep
+
+# Archives / OS / IDE
+*.zip
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
